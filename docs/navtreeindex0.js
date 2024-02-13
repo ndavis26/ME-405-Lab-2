@@ -2,6 +2,8 @@ var NAVTREEINDEX0 =
 {
 "annotated.html":[0,0],
 "classencoder__reader_1_1_encoder.html":[0,0,0,0],
+"classencoder__reader_1_1_encoder.html#a0b5ad086c21a7c4c0fdcc7977b596092":[0,0,0,0,1],
+"classencoder__reader_1_1_encoder.html#a4f0013ab8cd7010afd07096840604a03":[0,0,0,0,2],
 "classencoder__reader_1_1_encoder.html#af46ffcc5827fac83a6439b4cbca5c1f1":[0,0,0,0,0],
 "classes.html":[0,1],
 "dir_68267d1309a1af8e8297ef4c3efbcdba.html":[1,0,0],
