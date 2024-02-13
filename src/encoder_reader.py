@@ -43,7 +43,9 @@ class Encoder:
 
     def read(self):
         """!
-        
+        reads the current encoder position
+        and checks for overflow or underflow
+        when delta has exceeded positively or negatively half of the 65536 ticks
         """
 
         # new encoder position = read encoder position
@@ -69,6 +71,9 @@ class Encoder:
         print("Position = " + str(self.pos))
 
     def zero(self):
+        """!
+        Resets position from the encoder back to 0
+        """
         self.pos = 0
 
 if __name__ == "__main__":
